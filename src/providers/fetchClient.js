@@ -1,10 +1,7 @@
 import axios from 'axios'
 
-// WHEN WORKING WITH AN .env FILE
-// export const __API__ = process.env.API_URL
-
 const defaultOptions = {
-  baseURL: 'baseURL'
+  baseURL: 'https://opentdb.com/'
 }
 
 const instance = axios.create(defaultOptions)
