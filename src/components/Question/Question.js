@@ -33,6 +33,9 @@ const Question = ({ data, questionIndex, handleAddPoint, ...props }) => {
       if (answeredCorrectly === true) return 'brand.600'
       if (answeredCorrectly === false) return 'brand.400'
     }
+    if (selectedAnswer !== '' && correct === option) {
+      return 'brand.600'
+    }
     return 'brand.800'
   }
 
