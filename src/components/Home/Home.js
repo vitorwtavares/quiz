@@ -44,14 +44,15 @@ const Home = () => {
       <Flex w='100%' align='center' direction='column' p='48px 256px'>
         <Text
           color='brand.200'
-          textShadow='2px 2px 12px #fff'
+          textShadow='2px 2px 12px rgba(255,255,255,0.7)'
           fontWeight='400'
           fontSize='6xl'
           textAlign='center'
           mb='64px'
-          fontFamily='Helvetica'
+          fontFamily='Bebas Neue'
+          letterSpacing='4px'
         >
-          do you know games?
+          feelin' quizzy?
         </Text>
         {questions.map((e, index) => (
           <Question
