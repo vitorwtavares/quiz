@@ -1,4 +1,4 @@
-# Todo com progress bar
+# Quiz
 
 - Jogo no formato de quiz sobre tópicos variados do mundo dos videogames.
 
