@@ -1,13 +1,13 @@
 # Quiz
 
-- Jogo no formato de quiz sobre tópicos variados do mundo dos videogames.
+- Quiz game about different topics in the world of videogames.
 
 ### `yarn`
 
-Para instalar as dependências.
+To install dependencies
 
 ### `yarn start`
 
-Para rodar no [http://localhost:3000](http://localhost:3000)
+To run on [http://localhost:3000](http://localhost:3000)
 
-Criado com a partir do meu próprio [boilerplate básico de React](https://github.com/vitorwtavares/react-projects-boilerplate).
+Created with my very own [React basic boilerplate](https://github.com/vitorwtavares/react-projects-boilerplate).
